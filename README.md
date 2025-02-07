@@ -34,6 +34,7 @@ This project aims to analyze customer interactions on an e-commerce platform usi
 ---
 
 ## Dataset Information
+Source: https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ### **Overview**
 
